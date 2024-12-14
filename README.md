@@ -12,8 +12,8 @@
    - [Objetivo](#objetivo)
    - [Competências Desenvolvidas](#competências-desenvolvidas)
 7. [📝 Resumo de Fluxo das Tarefas](#resumo-de-fluxo-das-tarefas)
-8. [👤 Sobre o Autor](#sobre-o-autor)
-9. [🔗 Projetos em Andamento](#projetos-em-andamento)
+8. [🔗 Projetos em Andamento](#projetos-em-andamento)
+9. [👤 Sobre o Autor](#sobre-o-autor)
 
 ---
 
