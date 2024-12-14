@@ -17,12 +17,14 @@
 
 ---
 
+<a name="acompanhamento-do-projeto-de-solução-em-nuvem"></a>
 ## 🚀 **Acompanhamento do Projeto de Solução em Nuvem** 🌩️
 
 Estamos avançando no desafio de desenvolver uma infraestrutura em nuvem escalável, segura e otimizada para uma empresa de e-commerce em expansão! 💻💡
 
 ---
 
+<a name="o-que-estamos-fazendo"></a>
 ## 🔍 **O que estamos fazendo:**
 
 - **Identificação do problema real:**  
@@ -41,6 +43,7 @@ Os cards organizam todas as etapas, auxiliando no acompanhamento do progresso, n
 
 ---
 
+<a name="competências-em-foco"></a>
 ## 🌟 **Competências em Foco:**
 
 - Arquitetura em nuvem
@@ -50,6 +53,7 @@ Os cards organizam todas as etapas, auxiliando no acompanhamento do progresso, n
 
 ---
 
+<a name="sobre-a-escola-da-nuvem"></a>
 ## 📚 **Sobre a Escola da Nuvem:**
 
 A Escola da Nuvem é um programa de formação intensiva que oferece a oportunidade de ingressar no universo da computação em nuvem, utilizando as melhores práticas e tecnologias da AWS. Este projeto foi desenvolvido como parte da conclusão do curso de Certificação AWS Cloud Practitioner, dentro do programa RE/Start AWS.
@@ -58,25 +62,30 @@ O objetivo do programa é capacitar profissionais com conhecimentos técnicos e 
 
 ---
 
+<a name="colaboradores"></a>
 ## 👥 **Colaboradores:**
 
-- **Liderança:** Kaluanã Barcelos  
+- **Lider:** Kaluanã Barcelos  
 - **Desenvolvimento e Documentação:** Yasmin Laisa Maciel, Cristian Santtos, Marcelo Junior, Thomaz Luiz, Wallacy Menezes
 
 Juntos, estamos construindo soluções inovadoras e impactantes, enquanto colocamos em prática os conhecimentos adquiridos. 🌟
 
 ---
 
+<a name="descrição-do-projeto"></a>
 ## ✍️ **Descrição do Projeto:**
 
+<a name="desafio"></a>
 ### **Desafio:**
 
 Os estudantes serão desafiados a projetar e implementar uma solução de infraestrutura em nuvem para uma empresa de e-commerce em expansão. O foco principal está em atender às necessidades de escalabilidade, segurança e otimização de custos, garantindo que a solução seja resiliente e sustentável no longo prazo.
 
+<a name="objetivo"></a>
 ### **Objetivo:**
 
 O projeto visa proporcionar aos estudantes uma experiência prática com ferramentas tecnológicas de nuvem, possibilitando a aplicação de conceitos em um cenário realista. Além de explorar o uso confiável das informações, o desafio incentiva a capacidade de formular, negociar e defender ideias, promovendo a tomada de decisões assertivas e colaborativas.
 
+<a name="competências-desenvolvidas"></a>
 ### **Competências Desenvolvidas:**
 
 Durante o projeto, os estudantes terão a oportunidade de:
@@ -90,6 +99,7 @@ A experiência busca não apenas capacitar os participantes com conhecimentos t�
 
 ---
 
+<a name="resumo-de-fluxo-das-tarefas"></a>
 ## 📝 **Resumo de Fluxo das Tarefas:**
 
 1. Identificar o problema real.
@@ -101,14 +111,16 @@ A experiência busca não apenas capacitar os participantes com conhecimentos t�
 
 ---
 
+<a name="projetos-em-andamento"></a>
 ## 🔗 **Projetos em Andamento:**
 
-Você pode acompanhar o progresso de nossos projetos no **[Kanban da Equipe](https://seulinkdekanban.com)**. Este kanban é uma ferramenta central para organizar todas as etapas do nosso trabalho, garantindo que cada tarefa seja bem definida e acompanhada. Através dele, conseguimos visualizar as prioridades, gerenciar a distribuição de tarefas, além de otimizar o tempo e os recursos de nossa equipe.
+Você pode acompanhar o progresso de nossos projetos no **[Kanban da Equipe](https://github.com/users/kmirim/projects/1)**. Este kanban é uma ferramenta central para organizar todas as etapas do nosso trabalho, garantindo que cada tarefa seja bem definida e acompanhada. Através dele, conseguimos visualizar as prioridades, gerenciar a distribuição de tarefas, além de otimizar o tempo e os recursos de nossa equipe.
 
 A criação dessa seção de Kanban agrega um valor significativo, pois traz transparência, facilita o acompanhamento e a comunicação entre os membros da equipe e garante que todas as etapas do projeto sejam cumpridas conforme o planejamento. É uma ótima prática para manter a qualidade do trabalho e entregar resultados consistentes e eficientes.
 
 ---
 
+<a name="sobre-o-autor"></a>
 ## 👤 **Sobre o Autor:**
 
 **Kaluanã Barcelos**  
