@@ -13,6 +13,7 @@
    - [Competências Desenvolvidas](#competências-desenvolvidas)
 7. [📝 Resumo de Fluxo das Tarefas](#resumo-de-fluxo-das-tarefas)
 8. [👤 Sobre o Autor](#sobre-o-autor)
+9. [🔗 Projetos em Andamento](#projetos-em-andamento)
 
 ---
 
@@ -97,6 +98,14 @@ A experiência busca não apenas capacitar os participantes com conhecimentos t�
 4. Criar e revisar o PowerPoint.
 5. Documentar o processo técnico.
 6. Ensaiar a apresentação e alinhar o tempo.
+
+---
+
+## 🔗 **Projetos em Andamento:**
+
+Você pode acompanhar o progresso de nossos projetos no **[Kanban da Equipe](https://seulinkdekanban.com)**. Este kanban é uma ferramenta central para organizar todas as etapas do nosso trabalho, garantindo que cada tarefa seja bem definida e acompanhada. Através dele, conseguimos visualizar as prioridades, gerenciar a distribuição de tarefas, além de otimizar o tempo e os recursos de nossa equipe.
+
+A criação dessa seção de Kanban agrega um valor significativo, pois traz transparência, facilita o acompanhamento e a comunicação entre os membros da equipe e garante que todas as etapas do projeto sejam cumpridas conforme o planejamento. É uma ótima prática para manter a qualidade do trabalho e entregar resultados consistentes e eficientes.
 
 ---
 
