@@ -66,7 +66,12 @@ O objetivo do programa é capacitar profissionais com conhecimentos técnicos e 
 ## 👥 **Colaboradores:**
 
 - **Lider:** Kaluanã Barcelos  
-- **Desenvolvimento e Documentação:** Yasmin Laisa Maciel, Cristian Santtos, Marcelo Junior, Thomaz Luiz, Wallacy Menezes
+- **Equipe de Desenvolvimento e Documentação:**
+   - Cristian Santtos
+   - Marcelo Junior
+   - Thomaz Luiz
+   - Wallacy Menezes
+   - Yasmin Laisa Maciel
 
 Juntos, estamos construindo soluções inovadoras e impactantes, enquanto colocamos em prática os conhecimentos adquiridos. 🌟
 
