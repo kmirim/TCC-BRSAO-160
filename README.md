@@ -133,6 +133,7 @@ A criação dessa seção de Kanban agrega um valor significativo, pois traz tra
 
 <a name="conteudo"></a>
 ## 📂Proposta da Nova Arquitetura e Serviços:
+[Diagrama.pdf](https://github.com/user-attachments/files/18439470/Diagrama.pdf)
 
 ### 1. Introdução
 
