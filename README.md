@@ -17,7 +17,8 @@
 7. [📝 Resumo de Fluxo das Tarefas](#resumo-de-fluxo-das-tarefas)
 8. [🔗 Organização do Projeto](#projetos-em-andamento)
 9. [📂Proposta da Nova Arquitetura e Serviços](#conteudo)
-10. [👤 Sobre o Autor](#sobre-o-autor)
+10. [🧑‍💻Colaboradores](#colaboradores)
+12. [👤 Sobre o Autor](#sobre-o-autor)
 
 ---
 
@@ -207,6 +208,18 @@ A criação dessa seção de Kanban agrega um valor significativo, pois traz tra
   - CloudWatch oferece insights em tempo real sobre o desempenho e a saúde da aplicação.
 
 ---
+
+<a name="colaboradores"></a>
+## **🧑‍💻Colaboradores:**
+
+Agradecemos a contribuição das seguintes pessoas que tornaram este projeto possível:
+
+- [Cristian Dos Santos]([https://github.com/usuario1](https://github.com/cristiansanttos92))
+- [Marcelo Amaro de Souza]([https://github.com/usuario2](https://github.com/MarcheloAS))
+- [Thomaz Luiz Bispo]([https://github.com/usuario3](https://github.com/thomazluiz08))
+- [Yasmin Laisa Maciel](https://github.com/yasminlaisa)
+
+--- 
 
 <a name="sobre-o-autor"></a>
 ## 👤 **Sobre o Autor:**
