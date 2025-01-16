@@ -17,8 +17,7 @@
 7. [📝 Resumo de Fluxo das Tarefas](#resumo-de-fluxo-das-tarefas)
 8. [🔗 Organização do Projeto](#projetos-em-andamento)
 9. [📂Proposta da Nova Arquitetura e Serviços](#conteudo)
-10. [🧑‍💻Colaboradores](#colaboradores)
-12. [👤 Sobre o Autor](#sobre-o-autor)
+10. [👤 Sobre o Autor](#sobre-o-autor)
 
 ---
 
@@ -73,11 +72,10 @@ O objetivo do programa é capacitar profissionais com conhecimentos técnicos e 
 
 - **Lider:** Kaluanã Barcelos  
 - **Equipe de Desenvolvimento e Documentação:**
-   - Cristian Santtos
-   - Marcelo Junior
-   - Thomaz Luiz
-   - Wallacy Menezes
-   - Yasmin Laisa Maciel
+   - [Cristian Dos Santos](https://github.com/usuario1](https://github.com/cristiansanttos92 )
+   - [Marcelo Amaro de Souza](https://github.com/usuario2](https://github.com/MarcheloAS )
+   - [Thomaz Luiz Bispo](https://github.com/usuario3](https://github.com/thomazluiz08 )
+   - [Yasmin Laisa Maciel](https://github.com/yasminlaisa)
 
 Juntos, estamos construindo soluções inovadoras e impactantes, enquanto colocamos em prática os conhecimentos adquiridos. 🌟
 
@@ -209,18 +207,6 @@ A criação dessa seção de Kanban agrega um valor significativo, pois traz tra
   - CloudWatch oferece insights em tempo real sobre o desempenho e a saúde da aplicação.
 
 ---
-
-<a name="colaboradores"></a>
-## **🧑‍💻Colaboradores:**
-
-Agradecemos a contribuição das seguintes pessoas que tornaram este projeto possível:
-
-- [Cristian Dos Santos](https://github.com/usuario1](https://github.com/cristiansanttos92 )
-- [Marcelo Amaro de Souza](https://github.com/usuario2](https://github.com/MarcheloAS )
-- [Thomaz Luiz Bispo](https://github.com/usuario3](https://github.com/thomazluiz08 )
-- [Yasmin Laisa Maciel](https://github.com/yasminlaisa)
-
---- 
 
 <a name="sobre-o-autor"></a>
 ## 👤 **Sobre o Autor:**
