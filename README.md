@@ -16,7 +16,8 @@
    - [Competências Desenvolvidas](#competências-desenvolvidas)
 7. [📝 Resumo de Fluxo das Tarefas](#resumo-de-fluxo-das-tarefas)
 8. [🔗 Organização do Projeto](#projetos-em-andamento)
-9. [👤 Sobre o Autor](#sobre-o-autor)
+9. [🏗️Proposta da Nova Arquitetura e Serviços](#conteudo)
+10. [👤 Sobre o Autor](#sobre-o-autor)
 
 ---
 
@@ -41,6 +42,7 @@ Estamos avançando no desafio de desenvolver uma infraestrutura em nuvem escalá
 
 - **Documentação e Apresentação:**  
   Preparando materiais claros e objetivos para demonstrar resultados e aprendizados.
+
 
 Os cards organizam todas as etapas, auxiliando no acompanhamento do progresso, na criação de resumos e no alinhamento com as exigências do TCC. Com uma régua de avaliação bem definida, estamos garantindo a qualidade técnica e colaborativa do trabalho! ✅
 
@@ -125,6 +127,84 @@ A experiência busca não apenas capacitar os participantes com conhecimentos t�
 Você pode acompanhar o progresso de nossos projetos no **[Kanban da Equipe](https://github.com/users/kmirim/projects/1)**. Este kanban é uma ferramenta central para organizar todas as etapas do nosso trabalho, garantindo que cada tarefa seja bem definida e acompanhada. Através dele, conseguimos visualizar as prioridades, gerenciar a distribuição de tarefas, além de otimizar o tempo e os recursos de nossa equipe.
 
 A criação dessa seção de Kanban agrega um valor significativo, pois traz transparência, facilita o acompanhamento e a comunicação entre os membros da equipe e garante que todas as etapas do projeto sejam cumpridas conforme o planejamento. É uma ótima prática para manter a qualidade do trabalho e entregar resultados consistentes e eficientes.
+
+---
+
+<a name="conteudo"></a>
+## 🏗️Proposta da Nova Arquitetura e Serviços:
+
+### 1. Introdução
+
+- **Objetivo:** Apresentar a arquitetura serverless usando os principais serviços da AWS.
+
+- **Foco:**
+  - Demonstrar como os serviços se conectam para formar uma aplicação sem a necessidade de gerenciar servidores.
+  - Proporcionar escalabilidade, flexibilidade e segurança, com recursos ajustados automaticamente conforme a demanda.
+  - Reduzir custos operacionais, permitindo que a equipe se concentre no desenvolvimento de código e funcionalidades.
+
+### 2. Visão Geral da Arquitetura
+
+- **AWS Cloud:**
+  - O diagrama está encapsulado dentro da "AWS Cloud", que representa a infraestrutura global onde os serviços estão hospedados.
+
+- **Serviços Serverless:**
+  - A arquitetura utiliza serviços gerenciados pela AWS, eliminando a necessidade de provisionamento de servidores. Isso garante:
+    - Maior eficiência operacional.
+    - Redução de custos.
+
+### 3. Fluxo de Dados
+
+- **Início com o Usuário:**
+  1. **Route 53:** Gerencia o DNS (Domain Name System) e redireciona as requisições para o CloudFront.
+  2. **CloudFront:** Serviço de CDN (Content Delivery Network) que distribui o conteúdo de forma rápida e eficiente.
+
+- **Distribuição de Conteúdo Estático:**
+  - **Amazon S3:** Armazena os arquivos estáticos (HTML, CSS, JS, imagens).
+  - **Fluxo:** O CloudFront atende diretamente ao tráfego do usuário, entregando o conteúdo estático armazenado no S3.
+
+- **Requisições Dinâmicas:**
+  1. **CloudFront:** Encaminha solicitações dinâmicas para o API Gateway.
+  2. **API Gateway:** Gerencia a comunicação entre o frontend e o backend.
+
+- **Processamento de Backend:**
+  1. **AWS Lambda:** Executa a lógica de backend, como consultas ao banco de dados e execução de tarefas assíncronas.
+  2. **DynamoDB:** Interage com o Lambda para armazenar e recuperar dados em um banco NoSQL escalável.
+
+### 4. Segurança
+
+- **Autenticação:**
+  - **Amazon Cognito:** Gerencia o login e as permissões de acesso, garantindo interações seguras.
+
+- **Proteção contra Ataques:**
+  - **Amazon WAF (Web Application Firewall):** Posicionado entre o CloudFront e o API Gateway, protege contra ameaças como SQL injection e DDoS.
+
+### 5. Monitoramento e Observabilidade
+
+- **CloudWatch:**
+  - Registra métricas e logs de todos os componentes da arquitetura.
+  - Recebe logs e métricas do Lambda e DynamoDB, oferecendo uma visão centralizada e detalhada do desempenho e operações da aplicação.
+
+### 6. Benefícios da Arquitetura Serverless
+
+- **Escalabilidade Automática:**
+  - Recursos ajustados automaticamente conforme a demanda, sem necessidade de gerenciamento manual.
+
+- **Custos Sob Demanda:**
+  - Pagamento apenas pelo que é utilizado, eliminando custos fixos com servidores.
+
+- **Foco no Desenvolvimento:**
+  - Redução da complexidade de gerenciar infraestrutura, permitindo maior dedicação à criação de funcionalidades e ao código.
+
+### 7. Conclusão
+
+- **Eficiência e Simplificação:**
+  - A arquitetura serverless aproveita os serviços AWS para criar uma aplicação escalável, segura e de baixo custo.
+
+- **Segurança Integrada:**
+  - Serviços como Cognito e WAF garantem proteção contra ameaças externas.
+
+- **Visibilidade e Monitoramento:**
+  - CloudWatch oferece insights em tempo real sobre o desempenho e a saúde da aplicação.
 
 ---
 
