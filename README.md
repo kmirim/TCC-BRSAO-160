@@ -214,9 +214,9 @@ A criação dessa seção de Kanban agrega um valor significativo, pois traz tra
 
 Agradecemos a contribuição das seguintes pessoas que tornaram este projeto possível:
 
-- [Cristian Dos Santos]([https://github.com/usuario1](https://github.com/cristiansanttos92))
-- [Marcelo Amaro de Souza]([https://github.com/usuario2](https://github.com/MarcheloAS))
-- [Thomaz Luiz Bispo]([https://github.com/usuario3](https://github.com/thomazluiz08))
+- [Cristian Dos Santos](https://github.com/usuario1](https://github.com/cristiansanttos92 )
+- [Marcelo Amaro de Souza](https://github.com/usuario2](https://github.com/MarcheloAS )
+- [Thomaz Luiz Bispo](https://github.com/usuario3](https://github.com/thomazluiz08 )
 - [Yasmin Laisa Maciel](https://github.com/yasminlaisa)
 
 --- 
