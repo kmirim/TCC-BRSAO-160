@@ -15,7 +15,7 @@
    - [Objetivo](#objetivo)
    - [Competências Desenvolvidas](#competências-desenvolvidas)
 7. [📝 Resumo de Fluxo das Tarefas](#resumo-de-fluxo-das-tarefas)
-8. [🔗 Projetos em Andamento](#projetos-em-andamento)
+8. [🔗 Organização do Projeto](#projetos-em-andamento)
 9. [👤 Sobre o Autor](#sobre-o-autor)
 
 ---
@@ -120,7 +120,7 @@ A experiência busca não apenas capacitar os participantes com conhecimentos t�
 ---
 
 <a name="projetos-em-andamento"></a>
-## 🔗 **Projetos em Andamento:**
+## 🔗 **Organização do Projeto:**
 
 Você pode acompanhar o progresso de nossos projetos no **[Kanban da Equipe](https://github.com/users/kmirim/projects/1)**. Este kanban é uma ferramenta central para organizar todas as etapas do nosso trabalho, garantindo que cada tarefa seja bem definida e acompanhada. Através dele, conseguimos visualizar as prioridades, gerenciar a distribuição de tarefas, além de otimizar o tempo e os recursos de nossa equipe.
 
