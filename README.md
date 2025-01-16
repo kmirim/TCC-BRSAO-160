@@ -16,7 +16,7 @@
    - [Competências Desenvolvidas](#competências-desenvolvidas)
 7. [📝 Resumo de Fluxo das Tarefas](#resumo-de-fluxo-das-tarefas)
 8. [🔗 Organização do Projeto](#projetos-em-andamento)
-9. [🏗️Proposta da Nova Arquitetura e Serviços](#conteudo)
+9. [📂Proposta da Nova Arquitetura e Serviços](#conteudo)
 10. [👤 Sobre o Autor](#sobre-o-autor)
 
 ---
@@ -131,7 +131,7 @@ A criação dessa seção de Kanban agrega um valor significativo, pois traz tra
 ---
 
 <a name="conteudo"></a>
-## 🏗️Proposta da Nova Arquitetura e Serviços:
+## 📂Proposta da Nova Arquitetura e Serviços:
 
 ### 1. Introdução
 
